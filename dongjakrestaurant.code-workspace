@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "dongjakrestaurant",
+			"path": "../../../Desktop/projects/dongjakrestaurant"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
